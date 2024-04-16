@@ -2,18 +2,17 @@ import sys
 
 input = sys.stdin.readline
 
-n, m = map(int, input().split())
+a, b = map(int, input().split())
+pocket = {}
 
-dict = {}
+for i in range(1, a + 1):
+  name = input().rstrip()  #\n문자제거
+  pocket[i] = name
+  pocket[name] = i
 
-for i in range(1, n + 1):
-    a = input().rstrip()
-    dict[i] = a
-    dict[a] = i
-
-for i in range(m):
-    quest = input().rstrip()
-    if quest.isdigit():
-        print(dict[int(quest)])
-    else:
-        print(dict[quest])
+for _ in range(b):
+  q = input().rstrip()
+  if q.isdigit():
+    print(pocket[int(q)])
+  else:
+    print(pocket[q])
