@@ -1,7 +1,7 @@
 tc = int(input())
 for i in range(1,tc+1):
     n = int(input())
-    arr = [[0 for _ in range(n+1)] for _ in range(n+1)]
+    arr = [[0 for _ in range(n+1)] for _ in range(n)]
     arr[0][1] = 1
     print(f"#{i}")
     for j in range(1,n):
