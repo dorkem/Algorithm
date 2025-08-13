@@ -3,11 +3,20 @@
 🗓️ 풀이 기간: 2025.08.11 ~
 🍀 개발 언어: Java
 ```
-<img width="668" height="420" alt="Image" src="https://github.com/user-attachments/assets/c807bc65-ae46-40a2-855c-cb92685d7e82" />
+<img src="https://github.com/user-attachments/assets/c807bc65-ae46-40a2-855c-cb92685d7e82" width="100%" />
+
+
+### MISSION
+|                               미션                                |            수행 기간            | 풀이 과정 | 해설지 |
+|:---------------------------------------------------------------:|:---------------------------:|:-----:|:----:|
+|[🐸폴짝폴짝](https://www.acmicpc.net/problem/1326)       | `2025.08.11` |  [📝GIST](https://gist.github.com/dorkem/590792579e2b459a28ce45ef961f4c29)   | |
+|[🗂️섬의 개수](https://www.acmicpc.net/problem/4963)          | `2025.08.12` |  [📝GIST](https://gist.github.com/dorkem/3add04714100f1edd6911b47bb6dde93)   | |
 
 ---
 
-# 예시로 보기(BoJ숫자카드 문제)
+<br><br><br><br><br>
+
+# 문제 풀이 가이드(BoJ숫자카드 문제)
 
 ## 📌 문제 탐색하기
 
