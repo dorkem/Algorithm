@@ -23,3 +23,8 @@
 
 > 🔗 레포지토리: [🐊 LeetCode 풀이](https://github.com/dorkem/leetcode)<br>
 📍 사용 언어: Python, SQL
+
+## 🦝 눈높이 개발 코딩테스트 챌린지
+
+> 🔗 레포지토리: [🐊 LeetCode 풀이](./눈높이개발/코딩테스트-챌린지/)<br>
+📍 사용 언어: Java
