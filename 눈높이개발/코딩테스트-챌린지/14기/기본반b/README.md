@@ -5,8 +5,10 @@
 ```
 <img src="https://github.com/user-attachments/assets/c807bc65-ae46-40a2-855c-cb92685d7e82" width="100%" />
 
+<br><br>
 
-### MISSION
+
+## MISSION
 |                               미션                                |            수행 기간            | 풀이 과정 | 해설지 |
 |:---------------------------------------------------------------:|:---------------------------:|:-----:|:----:|
 |[🐸폴짝폴짝](https://www.acmicpc.net/problem/1326)       | `2025.08.11` |  [📝GIST](https://gist.github.com/dorkem/590792579e2b459a28ce45ef961f4c29)   | |
