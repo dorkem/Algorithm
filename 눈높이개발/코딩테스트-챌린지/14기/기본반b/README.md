@@ -13,6 +13,8 @@
 |:---------------------------------------------------------------:|:---:|:---:|:---------------------------:|:-----:|:----:|
 |[🐸폴짝폴짝](https://www.acmicpc.net/problem/1326)       |`BFS/DFS`| `S2`| `2025.08.11` |  [📝GIST](https://gist.github.com/dorkem/590792579e2b459a28ce45ef961f4c29)   | |
 |[🗂️섬의 개수](https://www.acmicpc.net/problem/4963)          |`BFS/DFS`| `S2`| `2025.08.12` |  [📝GIST](https://gist.github.com/dorkem/3add04714100f1edd6911b47bb6dde93)   | |
+|[👀적록색약](https://www.acmicpc.net/problem/4963)          |`BFS/DFS`| `G5`| `2025.08.13` | | |
+|[➕1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)          |`DP`| `S3`| `2025.08.15` |  [📝GIST](https://gist.github.com/dorkem/f4d467a74eebfe9145362ff7da719149)   | |
 
 ---
 
