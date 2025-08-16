@@ -15,6 +15,7 @@
 |[🗂️섬의 개수](https://www.acmicpc.net/problem/4963)          |`BFS/DFS`| `S2`| `2025.08.12` |  [📝GIST](https://gist.github.com/dorkem/3add04714100f1edd6911b47bb6dde93)   | |
 |[👀적록색약](https://www.acmicpc.net/problem/4963)          |`BFS/DFS`| `G5`| `2025.08.13` | | |
 |[➕1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)          |`DP`| `S3`| `2025.08.15` |  [📝GIST](https://gist.github.com/dorkem/f4d467a74eebfe9145362ff7da719149)   | |
+|[⛏️자원 캐기](https://www.acmicpc.net/problem/14430)          |`DP`| `S2`| `2025.08.16` |  [📝GIST](https://gist.github.com/dorkem/e061a089aa83e27a7b202c22509056d6)   | |
 
 ---
 
