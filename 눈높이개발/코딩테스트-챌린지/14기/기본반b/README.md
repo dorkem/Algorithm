@@ -11,7 +11,7 @@
 ## MISSION
 |                               미션                                | 문제 유형 | 문제 난이도 |           수행 기간            | 풀이 과정 | 해설지 |
 |:---------------------------------------------------------------:|:---:|:---:|:---------------------------:|:-----:|:----:|
-|[🃏숫자 카드(OT)](https://www.acmicpc.net/problem/10815)       |`BFS/DFS`| `S1`| `2025.08.13` | ||
+|[🃏숫자 카드(OT)](https://www.acmicpc.net/problem/10815)       |`이분탐색`| `S5`| `2025.08.10` | ||
 |[🐸폴짝폴짝](https://www.acmicpc.net/problem/1326)       |`BFS/DFS`| `S2`| `2025.08.11` |  [📝GIST](https://gist.github.com/dorkem/590792579e2b459a28ce45ef961f4c29)   | |
 |[🗂️섬의 개수](https://www.acmicpc.net/problem/4963)          |`BFS/DFS`| `S2`| `2025.08.12` |  [📝GIST](https://gist.github.com/dorkem/3add04714100f1edd6911b47bb6dde93)   | |
 |[🍄버섯 농장](https://www.acmicpc.net/problem/27737)       |`BFS/DFS`| `S1`| `2025.08.13` | | |
