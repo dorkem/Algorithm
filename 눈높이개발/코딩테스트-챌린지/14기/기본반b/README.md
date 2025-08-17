@@ -19,6 +19,7 @@
 |[➕1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)          |`DP`| `S3`| `2025.08.15` |  [📝GIST](https://gist.github.com/dorkem/f4d467a74eebfe9145362ff7da719149)   | |
 |[⛏️자원 캐기](https://www.acmicpc.net/problem/14430)          |`DP`| `S2`| `2025.08.16` |  [📝GIST](https://gist.github.com/dorkem/e061a089aa83e27a7b202c22509056d6)   | |
 |[🎨RGB거리](https://www.acmicpc.net/problem/1149)          |`DP`| `S1`| `2025.08.17` |  [📝GIST](https://gist.github.com/dorkem/44ba11d0afd69e6696e89a126ba03137)   | |
+|[🪜내려가기](https://www.acmicpc.net/problem/2096)         |`DP`| `G5`| `2025.08.18` |  [📝GIST](https://gist.github.com/dorkem/fec89a4f3cd48bd23dc3335ddb41d029)   | |
 
 ---
 
