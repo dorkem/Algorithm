@@ -22,7 +22,7 @@
 |[🪜내려가기](https://www.acmicpc.net/problem/2096)         |`DP`| `G5`| `2025.08.18` |  [📝GIST](https://gist.github.com/dorkem/fec89a4f3cd48bd23dc3335ddb41d029)   | |
 |[🤖로봇](https://www.acmicpc.net/problem/13567)         |`구현`| `S4`| `2025.08.19` |  [📝GIST](https://gist.github.com/dorkem/40b7c4baae280af6c33907f0c4ef7ce5)   | |
 |[⚾️숫자 야구](https://www.acmicpc.net/problem/2503)         |`구현`| `S3`| `2025.08.20` |  [📝GIST](https://gist.github.com/dorkem/dc7affcd8679a073794f2b042dffa973)   | |
-
+|[⚫️⚪️ 오목](https://www.acmicpc.net/problem/2615)         |`구현`| `S1`| `2025.08.21` |  [📝GIST](https://gist.github.com/dorkem/fe5ddb3d96f4988b6fc031c58a3a3cd0)   | |
 ---
 
 <br><br><br><br><br>
