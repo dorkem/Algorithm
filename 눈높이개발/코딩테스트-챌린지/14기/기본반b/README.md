@@ -24,6 +24,9 @@
 |[⚾️숫자 야구](https://www.acmicpc.net/problem/2503)         |`구현`| `S3`| `2025.08.20` |  [📝GIST](https://gist.github.com/dorkem/dc7affcd8679a073794f2b042dffa973)   | |
 |[⚪️오목](https://www.acmicpc.net/problem/2615)         |`구현`| `S1`| `2025.08.21` |  [📝GIST](https://gist.github.com/dorkem/fe5ddb3d96f4988b6fc031c58a3a3cd0)   | |
 |[🚚트럭](https://www.acmicpc.net/problem/13335)         |`구현`| `S1`| `2025.08.22` |  [📝GIST](https://gist.github.com/dorkem/70b3afe7009adc3bc69bc7257a5ca2a0)   | |
+|[🌉어두운 굴다리](https://www.acmicpc.net/problem/17266)  |`이분탐색`| `S4`| `2025.08.23` |     | |
+|[🔴선분 위의 점](https://www.acmicpc.net/problem/11663)         |`이분탐색`| `S3`| `2025.08.24` | | |
+|[🌳나무 자르기](https://www.acmicpc.net/problem/2805)         |`이분탐색`| `S2`| `2025.08.25` |  [📝GIST](https://gist.github.com/dorkem/70b3afe7009adc3bc69bc7257a5ca2a0)   | |
 ---
 
 <br><br><br><br><br>
