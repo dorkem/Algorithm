@@ -1,8 +1,8 @@
 def solution(s):
-    result = ''
+    answer = ''
     for i in range(len(s)):
-        if i == 0 or s[i - 1] == " ":
-            result += s[i].upper()
+        if i == 0 or s[i-1] == ' ':
+            answer += s[i].upper()
         else:
-            result += s[i].lower()
-    return result
+            answer += s[i].lower()
+    return answer
