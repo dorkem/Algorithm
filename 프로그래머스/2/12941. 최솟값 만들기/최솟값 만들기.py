@@ -1,7 +1,7 @@
 def solution(A,B):
     A.sort()
-    B.sort()
-    answer = 0
+    B.sort(reverse=True)
+    sum = 0
     for i in range(len(A)):
-        answer += A[i] * B[-i-1]
-    return answer
+        sum += A[i] * B[i]
+    return sum
